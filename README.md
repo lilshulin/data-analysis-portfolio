@@ -43,7 +43,9 @@ What is the relative importance of physical property features versus location ch
 
 - `STA302 Final Project.pdf`: Full report  
 - `housing-price-analysis.Rmd`: Analysis code  
-- `/images`: Selected visualizations  
+- `/images`: Selected visualizations
+
+- https://github.com/lilshulin/data-analysis-portfolio/blob/2a211a0fd213c26f926d433d242c2c570f3c8f4a/histogram.png
 
 ## Author
 
