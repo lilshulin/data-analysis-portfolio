@@ -46,6 +46,7 @@ What is the relative importance of physical property features versus location ch
 - `/images`: Selected visualizations
 
 - https://github.com/lilshulin/data-analysis-portfolio/blob/2a211a0fd213c26f926d433d242c2c570f3c8f4a/histogram.png
+- https://github.com/lilshulin/data-analysis-portfolio/blob/b2f46b37cf165d2de5ac7c25728aa7c25ad9e29b/price%20and%20house%20size.png
 
 ## Author
 
