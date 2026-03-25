@@ -48,7 +48,7 @@ What is the relative importance of physical property features versus location ch
 ## Visualizations
 
 ### Log-Transformed Price Distribution
-![Histogram](Images/histogram.png)
+histogram.png
 
 ### Residuals vs Fitted
 ![Residuals](Images/residual and fitted.png)
